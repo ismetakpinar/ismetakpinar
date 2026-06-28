@@ -5,7 +5,53 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on <h1 align="center">Merhaba 👋, ben İsmet Akpınar</h1>
+
+<h3 align="center">Junior Full Stack Developer (.NET / React)</h3>
+
+---
+
+## 🚀 Hakkımda
+
+ASP.NET Core Web API, MSSQL ve React teknolojileri ile modern ve ölçeklenebilir web uygulamaları geliştiriyorum.  
+Clean Architecture, SOLID prensipleri ve RESTful API tasarımına odaklanıyorum.
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 📌 Projem
+
+### 🎓 Student Management API
+ASP.NET Core Web API ile geliştirilmiş katmanlı mimariye sahip öğrenci yönetim sistemi.
+
+👉 https://github.com/ismetakpinar/StudentManagementAPI
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ismetakpinar&show_icons=true&theme=radical"/>
+</p>
+
+---
+
+## 📫 İletişim
+
+- 📧 Email: (ekleyebilirsin)
+- 💼 LinkedIn: linkedin.com/in/ismetakpinar
+- 🐙 GitHub: github.com/ismetakpinar...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
