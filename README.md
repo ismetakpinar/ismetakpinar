@@ -6,8 +6,11 @@
 
 ## 🚀 Hakkımda
 
-ASP.NET Core Web API, MSSQL ve React teknolojileri ile modern ve ölçeklenebilir web uygulamaları geliştiriyorum.  
-Clean Architecture, SOLID prensipleri ve RESTful API tasarımına odaklanıyorum.
+## 🚀 Hakkımda
+
+ASP.NET Core Web API, MSSQL ve React teknolojileri ile modern, performanslı ve ölçeklenebilir web uygulamaları geliştiriyorum.
+
+Özellikle Clean Architecture, SOLID prensipleri, RESTful API tasarımı, Authentication & Authorization ve sürdürülebilir yazılım mimarileri üzerine çalışıyorum.
 
 ---
 
@@ -76,14 +79,34 @@ Clean Architecture, SOLID prensipleri ve RESTful API tasarımına odaklanıyorum
 
 ---
 
-## 📌 Projem
+## 📌 Projelerim
 
 ### 🎓 Student Management API
 ASP.NET Core Web API ile geliştirilmiş katmanlı mimariye sahip öğrenci yönetim sistemi.
 
+Öne Çıkan Teknolojiler:
+- Entity Framework Core
+- Repository Pattern
+- AutoMapper
+- FluentValidation
+- Global Exception Middleware
+
 👉 https://github.com/ismetakpinar/StudentManagementAPI
 
 ---
+
+### 🔐 JWT Authentication API
+JWT tabanlı kimlik doğrulama ve yetkilendirme sistemi.
+
+Öne Çıkan Teknolojiler:
+- ASP.NET Core Web API
+- Entity Framework Core
+- JWT Authentication
+- Role-Based Authorization
+- BCrypt Password Hashing
+- Swagger JWT Integration
+
+👉 https://github.com/ismetakpinar/JwtAuthAPI
 
 ## 📊 GitHub İstatistikleri
 
