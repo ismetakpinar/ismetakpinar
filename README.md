@@ -4,9 +4,6 @@
 
 ---
 
-## 🚀 Hakkımda
-
-## 🚀 Hakkımda
 
 ## 🚀 Hakkımda
 
