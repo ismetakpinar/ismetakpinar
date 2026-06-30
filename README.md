@@ -42,7 +42,7 @@ ASP.NET Core Web API ile geliştirilmiş katmanlı mimariye sahip öğrenci yön
 
 ## 📫 İletişim
 
-- 📧 Email: (ekleyebilirsin)
+- 📧 Email: (ismet_08@hotmail.com)
 - 💼 LinkedIn: linkedin.com/in/ismetakpinar
 - 🐙 GitHub: github.com/ismetakpinar
 
