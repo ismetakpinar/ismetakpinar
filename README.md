@@ -26,6 +26,52 @@ ASP.NET Core Web API, MSSQL ve React teknolojileri ile modern, performanslı ve 
 
 
 # 📌 Projelerim
+## 🛒 ECommerceAPI
+
+Modern yazılım geliştirme prensipleri kullanılarak geliştirilmiş ASP.NET Core 8 Web API projesi.
+
+### Öne Çıkan Özellikler
+
+- ASP.NET Core 8
+- Clean Architecture (N-Tier)
+- JWT Authentication
+- Refresh Token Rotation
+- Role Based Authorization
+- Repository Pattern
+- Unit Of Work
+- Specification Pattern
+- FluentValidation
+- AutoMapper
+- Global Exception Middleware
+- Soft Delete
+- Pagination
+- IMemoryCache
+- Serilog
+- Docker
+- Swagger & Scalar
+- 355 Unit & Integration Test
+
+🔗 Repository:
+
+https://github.com/ismetakpinar/ECommerceAPI
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- LINQ
+- AutoMapper
+- FluentValidation
+- Docker
+- Git & GitHub
+- xUnit
+- Moq
+
+---
 
 ### 🎓 Student Management API
 ASP.NET Core Web API ile geliştirilmiş katmanlı mimariye sahip öğrenci yönetim sistemi.
