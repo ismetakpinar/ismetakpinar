@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba 👋 ben İsmet Akpınar</h1>
 
-<h3 align="center">Junior Full Stack Developer (.NET / React)</h3>
+<h3 align="center"> Full Stack Developer (.NET / React)</h3>
 
 ---
 
