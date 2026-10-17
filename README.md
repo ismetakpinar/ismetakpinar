@@ -26,6 +26,25 @@ ASP.NET Core Web API, MSSQL ve React teknolojileri ile modern, performanslı ve 
 
 
 # 📌 Projelerim
+## 🛍️ ECommerce Web + API
+
+ASP.NET Core 8 MVC mağaza arayüzü ve katmanlı Web API'yi tek repoda birleştiren e-ticaret uygulaması.
+
+### Öne Çıkan Özellikler
+
+- MVC tabanlı mağaza arayüzü
+- Ürün ve kategori arama/listeleme
+- JWT kimlik doğrulama ve refresh token
+- Sepet, adres, checkout ve sipariş akışları
+- Entity Framework Core ve SQL Server
+- Unit ve integration test projeleri
+
+🔗 Repository:
+
+https://github.com/ismetakpinar/ECommerceWeb
+
+---
+
 ## 🛒 ECommerceAPI
 
 Modern yazılım geliştirme prensipleri kullanılarak geliştirilmiş ASP.NET Core 8 Web API projesi.
